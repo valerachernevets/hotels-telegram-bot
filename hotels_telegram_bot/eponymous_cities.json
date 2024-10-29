@@ -1,0 +1,302 @@
+{
+    "q": "Rome",
+    "rid": "4dade92d21764dcab5e612333ee7922d",
+    "rc": "OK",
+    "sr": [
+        {
+            "@type": "gaiaRegionResult",
+            "index": "0",
+            "gaiaId": "553248633938945217",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Rome City Centre, Rome, Lazio, Italy",
+                "shortName": "Rome City Centre",
+                "displayName": "Rome City Centre, Rome, Lazio, Italy",
+                "primaryDisplayName": "Rome City Centre",
+                "secondaryDisplayName": "Rome, Lazio, Italy",
+                "lastSearchName": "Rome City Centre"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "553248633938945217"
+            },
+            "coordinates": {
+                "lat": "41.89893613158187",
+                "long": "12.481600476754945"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Italy",
+                    "isoCode2": "IT",
+                    "isoCode3": "ITA"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "1",
+            "gaiaId": "3023",
+            "type": "CITY",
+            "regionNames": {
+                "fullName": "Rome, Lazio, Italy",
+                "shortName": "Rome",
+                "displayName": "Rome, Lazio, Italy",
+                "primaryDisplayName": "Rome",
+                "secondaryDisplayName": "Lazio, Italy",
+                "lastSearchName": "Rome"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "3023"
+            },
+            "coordinates": {
+                "lat": "41.903755",
+                "long": "12.479556"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Italy",
+                    "isoCode2": "IT",
+                    "isoCode3": "ITA"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "2",
+            "gaiaId": "5194566",
+            "type": "AIRPORT",
+            "regionNames": {
+                "fullName": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "shortName": "Rome (FCO-Fiumicino - Leonardo da Vinci Intl.)",
+                "displayName": "Rome (FCO - Fiumicino-Leonardo da Vinci Intl.), Italy",
+                "primaryDisplayName": "Rome (FCO - Fiumicino-Leonardo da Vinci Intl.)",
+                "secondaryDisplayName": "Italy",
+                "lastSearchName": "Rome (FCO - Fiumicino-Leonardo da Vinci Intl.)"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "5194566"
+            },
+            "coordinates": {
+                "lat": "41.795617",
+                "long": "12.251165"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Italy",
+                    "isoCode2": "IT",
+                    "isoCode3": "ITA"
+                }
+            },
+            "isMinorAirport": "false"
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "3",
+            "gaiaId": "6200441",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Rome Historic Centre, Rome, Lazio, Italy",
+                "shortName": "Rome Historic Centre",
+                "displayName": "Rome Historic Centre, Rome, Lazio, Italy",
+                "primaryDisplayName": "Rome Historic Centre",
+                "secondaryDisplayName": "Rome, Lazio, Italy",
+                "lastSearchName": "Rome Historic Centre"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6200441"
+            },
+            "coordinates": {
+                "lat": "41.89331367053498",
+                "long": "12.485896986166138"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Italy",
+                    "isoCode2": "IT",
+                    "isoCode3": "ITA"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "4",
+            "gaiaId": "9699",
+            "type": "CITY",
+            "regionNames": {
+                "fullName": "Rome, Georgia, United States of America",
+                "shortName": "Rome",
+                "displayName": "Rome, Georgia, United States",
+                "primaryDisplayName": "Rome",
+                "secondaryDisplayName": "Georgia, United States",
+                "lastSearchName": "Rome"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "9699"
+            },
+            "coordinates": {
+                "lat": "34.254181",
+                "long": "-85.172249"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "United States",
+                    "isoCode2": "US",
+                    "isoCode3": "USA"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "5",
+            "gaiaId": "6165",
+            "type": "CITY",
+            "regionNames": {
+                "fullName": "Rome, New York, United States of America",
+                "shortName": "Rome",
+                "displayName": "Rome, New York, United States",
+                "primaryDisplayName": "Rome",
+                "secondaryDisplayName": "New York, United States",
+                "lastSearchName": "Rome"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6165"
+            },
+            "coordinates": {
+                "lat": "43.212849",
+                "long": "-75.455727"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "United States",
+                    "isoCode2": "US",
+                    "isoCode3": "USA"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "6",
+            "gaiaId": "6046253",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Vatican, Rome, Lazio, Italy",
+                "shortName": "Vatican",
+                "displayName": "Vatican, Rome, Lazio, Italy",
+                "primaryDisplayName": "Vatican",
+                "secondaryDisplayName": "Rome, Lazio, Italy",
+                "lastSearchName": "Vatican"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6046253"
+            },
+            "coordinates": {
+                "lat": "41.90851",
+                "long": "12.454125"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Italy",
+                    "isoCode2": "IT",
+                    "isoCode3": "ITA"
+                }
+            }
+        },
+        {
+            "@type": "gaiaHotelResult",
+            "index": "7",
+            "hotelId": "564180",
+            "type": "HOTEL",
+            "regionNames": {
+                "fullName": "Hilton Rome Airport, Fiumicino, Lazio, Italy",
+                "shortName": "Hilton Rome Airport",
+                "displayName": "Hilton Rome Airport, Fiumicino, Lazio, Italy",
+                "primaryDisplayName": "Hilton Rome Airport",
+                "secondaryDisplayName": "Fiumicino, Lazio, Italy",
+                "lastSearchName": "Hilton Rome Airport"
+            },
+            "essId": {
+                "sourceName": "LCM",
+                "sourceId": "564180"
+            },
+            "coordinates": {
+                "lat": "41.79183",
+                "long": "12.25679"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "isoCode3": "ITA"
+                }
+            },
+            "cityId": "179111",
+            "hotelAddress": {
+                "street": "Via Arturo Ferrarin 2",
+                "city": "Fiumicino",
+                "province": ""
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "8",
+            "gaiaId": "9605",
+            "type": "CITY",
+            "regionNames": {
+                "fullName": "Romeoville, Illinois, United States of America",
+                "shortName": "Romeoville",
+                "displayName": "Romeoville, Illinois, United States",
+                "primaryDisplayName": "Romeoville",
+                "secondaryDisplayName": "Illinois, United States",
+                "lastSearchName": "Romeoville"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "9605"
+            },
+            "coordinates": {
+                "lat": "41.64753",
+                "long": "-88.089508"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "United States",
+                    "isoCode2": "US",
+                    "isoCode3": "USA"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "9",
+            "gaiaId": "6046256",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Trastevere, Rome, Lazio, Italy",
+                "shortName": "Trastevere",
+                "displayName": "Trastevere, Rome, Lazio, Italy",
+                "primaryDisplayName": "Trastevere",
+                "secondaryDisplayName": "Rome, Lazio, Italy",
+                "lastSearchName": "Trastevere"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6046256"
+            },
+            "coordinates": {
+                "lat": "41.884831",
+                "long": "12.470402"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Italy",
+                    "isoCode2": "IT",
+                    "isoCode3": "ITA"
+                }
+            }
+        }
+    ]
+}
